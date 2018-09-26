@@ -1,0 +1,32 @@
+{
+    "name": "SPA_Pluralsight",
+    "private": true,
+    "version": "1.0.0",
+    "dependencies": {
+        "bulma": "^0.7.1",
+        "vue": "^2.5.17",
+        "vue-router": "^3.0.1"
+    },
+    "devDependencies": {
+        "aspnet-webpack": "^3.0.0",
+        "babel-core": "^6.26.3",
+        "babel-eslint": "^9.0.0",
+        "babel-loader": "^7.1.2",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-stage-2": "^6.24.1",
+        "css-loader": "^1.0.0",
+        "event-source-polyfill": "^0.0.16",
+        "file-loader": "^0.9.0",
+        "isomorphic-fetch": "^2.2.1",
+        "mini-css-extract-plugin": "^0.4.3",
+        "node-sass": "^4.9.3",
+        "sass-loader": "^7.1.0",
+        "style-loader": "^0.23.0",
+        "vue-loader": "^15.4.2",
+        "vue-property-decorator": "^5.3.0",
+        "vue-template-compiler": "^2.5.17",
+        "webpack": "^4.19.1",
+        "webpack-dev-middleware": "^3.3.0",
+        "webpack-hot-middleware": "^2.24.2"
+    }
+}
